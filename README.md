@@ -1,4 +1,4 @@
-# python---PKUJohnson
+# python Financial Data Analysis PKUJohnson
 notebooks by learning 'python金融数据分析' in videos from internet.<br>
 ## some complaints
 Breifly get througth these lectures but find out that the lecturer was basically promoted his own python-lib througthout the lectures. <br>

@@ -1,5 +1,6 @@
-# python Financial Data Analysis PKUJohnson
-在学习B站上'python金融数据分析'视频时写的一些笔记.<br>
+# Python_Financial_Data_Analysis_PKUJohnson
+在学习B站上[python金融数据分析]('https://www.bilibili.com/video/av20727707')视频时写的一些笔记.<br>
+
 ## 一点建议
 
 我把课程简要地过了一遍，发现整个视频中授课者几乎就在推广自己的python库。
